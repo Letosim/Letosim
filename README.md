@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Letosim
+- 👋 Hi, I’m nikita knöfel
 - 👀 I’m interested in stuff.
-- 🌱 I’m currently learning stuff.
+- 🌱 I’m currently working on a neuralnetwork sandbox for unity3D.
 - 💞️ I’m looking to collaborate on stuff.
-- 📫 How to reach me phone.
+- 📫 0176 41585864.
 
 <!---
 Letosim/Letosim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
