@@ -1,7 +1,6 @@
 - 👋 Hi, I’m nikita knöfel
 - 👀 I’m interested in stuff.
 - 🌱 I’m currently working on a neuralnetwork sandbox for unity3D.
-- 💞️ I’m looking to collaborate on stuff.
 - 📫 0176 41585864.
 
 <!---
